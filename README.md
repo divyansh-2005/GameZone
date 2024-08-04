@@ -1675,7 +1675,7 @@ This repository also provides one such platforms where contributers come over an
 | [Memory_Card](https://github.com/kunjgit/GameZone/tree/main/Games/Memory_Card)|
 
 |[Synonym_Symphony](https://github.com/kunjgit/GameZone/tree/main/Games/Synonym_Symphony)|
-
+|[infinite_Cars](https://github.com/kunjgit/GameZone/tree/main/Games/Infinite_Cars)|
 
  </center>
 
